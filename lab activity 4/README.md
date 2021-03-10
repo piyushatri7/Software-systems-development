@@ -7,6 +7,6 @@
   - The background wallpaper is not affected by dropdown list.
 
 
-# add images named 'tokyo1.jpg' and 'tokyo2.jpg' in current folder.
+### Add images named 'tokyo1.jpg' and 'tokyo2.jpg' in current folder.
  
 
